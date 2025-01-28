@@ -26,7 +26,7 @@ HintSmallFont=0
 CacheMaxFaces=256
 CacheMaxSizes=12554432
 CacheMaxBytes=12108864
-Name=IBM Plex Sans-2024.01.28
+Name=IBM Plex Sans-2025.01.28
 [UnloadDll]
 AdobeIPCBroker.exe
 audiodg.exe
@@ -167,6 +167,8 @@ RenderingMode=5
 ClearTypeLevel=0.6
 GammaValue=1.9
 Contrast=1.3
+[Experimental@idea64.exe]
+Clipboxfix=1
 [experimental@msnmsgr.exe]
 ArmBreaker=2
 [experimental@vlc.exe]
@@ -175,22 +177,28 @@ ArmBreaker=2
 ArmBreaker=2
 [experimental@foobar2000.exe]
 ArmBreaker=2
-[experimental@firefox.exe]
+[experimental@qbittorrent.exe]
+ArmBreaker=2
+[experimental@Ext2Mgr.exe]
+ArmBreaker=1
+[experimental@firefox]
 ArmBreaker=2
 ColorFont=1
-[experimental@browsers]
+[general@firefox.exe]
+alternative=firefox
+[general@floorp.exe]
+alternative=firefox
+[experimental@chrome]
 ArmBreaker=2
 ColorFont=1
 InvertColor=1
-[Experimental@idea64.exe]
-Clipboxfix=1
 [general@chrome.exe]
-alternative=browsers
+alternative=chrome
 [general@msedge.exe]
-alternative=browsers
+alternative=chrome
 [general@msedgewebview2.exe]
-alternative=browsers
+alternative=chrome
 [general@SwitchHosts.exe]
-alternative=browsers
+alternative=chrome
 [general@steam.exe]
-alternative=browsers
+alternative=chrome
