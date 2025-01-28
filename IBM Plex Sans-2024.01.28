@@ -1,0 +1,196 @@
+[General]
+HintingMode=0
+AntiAliasMode=3
+NormalWeight=1
+BoldWeight=-2
+ItalicSlant=0
+EnableKerning=1
+GammaMode=0
+LcdFilter=2
+BolderMode=2
+TextTuning=8
+TextTuningR=8
+TextTuningG=8
+TextTuningB=8
+GammaValue=1.4
+Contrast=1.4
+RenderWeight=1.7
+Fontlink=1
+HookChildProcesses=1
+FontLoader=0
+FontSubstitutes=2
+Shadow=0,0,0,0x0,0,0x0
+MaxBitmap=0
+DirectWrite=1
+HintSmallFont=0
+CacheMaxFaces=256
+CacheMaxSizes=12554432
+CacheMaxBytes=12108864
+Name=IBM Plex Sans-2024.01.28
+[UnloadDll]
+AdobeIPCBroker.exe
+audiodg.exe
+BlackOps3.exe
+CCXProcess.exe
+ConEmuC.exe
+ConEmuC64.exe
+Cyberpunk2077.exe
+DaysGone.exe
+dwm.exe
+emuera1824.exe
+emuera1824中文版.exe
+ffxiv.exe
+fontforge.exe
+HogwartsLegacy.exe
+igfxCUIService.exe
+igfxEM.exe
+igfxHK.exe
+JediSurvivor.exe
+lass.exe
+Lethal Company.exe
+LSB.exe
+MsMpEng.exe
+node.exe
+NVDisplay.Container.exe
+OfficeClickToRun.exe
+pia-service.exe
+QHActiveDefense.exe
+QHSafeTray.exe
+QHWatchdog.exe
+RobloxPlayer.exe
+RobloxPlayerBeta.exe
+RuntimeBroker.exe
+SearchFilterHost.exe
+SearchIndexer.exe
+SearchProtocolHost.exe
+services.exe
+spoolsv.exe
+stacsv64.exe
+Stardew Valley.exe
+starwarsjedifallenorder.exe
+SynTPEnh.exe
+SynTPHelper.exe
+taskhostw.exe
+VBoxSVC.exe
+VirtualBox.exe
+vmnat.exe
+vmnetdhcp.exe
+vmware-authd.exe
+vmware-usbarbitrator64.exe
+vmware-vmx.exe
+xd.exe
+[exclude]
+[FontSubstitutes]
+Arial=IBM Plex Sans
+acumin-pro=IBM Plex Sans
+Arial Black=IBM Plex Sans Black
+Arial Narrow=IBM Plex Sans Condensed
+Arial Unicode MS=IBM Plex Sans
+Calibri=IBM Plex Sans
+Cambria=IBM Plex Sans
+Consolas=IBM Plex Sans Condensed
+Courier New=IBM Plex Sans Condensed
+FreeSans=IBM Plex Sans SC
+Google Sans=IBM Plex Sans SC
+Helv=IBM Plex Sans
+Helvetica=IBM Plex Sans
+Helvetica Neue=IBM Plex Sans
+HelveticaNeue=IBM Plex Sans
+HelveticaNeueLT Std=IBM Plex Sans
+HelveticaNeueLT Std Cn=IBM Plex Sans SC
+HelveticaNeueLT Std Med=IBM Plex Sans
+HelvNeue=IBM Plex Sans
+Lucida Console=IBM Plex Sans Condensed
+Microsoft Sans Serif=IBM Plex Sans SC
+Microsoft Sans Serif Regular=IBM Plex Sans SC
+Microsoft SegoeUI=IBM Plex Sans SC
+Microsoft Segoe UI=IBM Plex Sans SC
+Microsoft Serif=IBM Plex Sans SC
+micross=IBM Plex Sans
+monospace=IBM Plex Sans Condensed
+MS Gothic=IBM Plex Sans JP
+MS PGothic=IBM Plex Sans JP
+MS Reference Sans Serif=IBM Plex Sans SC
+MS Sans Serif=IBM Plex Sans SC
+MS Sans Serif Regular=IBM Plex Sans SC
+MS Serif=IBM Plex Sans SC
+MS Shell Dlg=IBM Plex Sans
+MS Shell Dlg 2=IBM Plex Sans
+MS UI Gothic=IBM Plex Sans JP
+Roboto=IBM Plex Sans
+sans=IBM Plex Sans
+sans serif=IBM Plex Sans SC
+Sans Serif Collection=IBM Plex Sans SC
+sans-serif=IBM Plex Sans SC
+Segoe=IBM Plex Sans
+Segoe UI=IBM Plex Sans SC
+Segoe UI Bold Text=IBM Plex Sans SC
+Segoe UI Historic=IBM Plex Sans SC
+Segoe UI Light=IBM Plex Sans SC Light
+Segoe UI Semibold=IBM Plex Sans SC
+Segoe UI Variable=IBM Plex Sans SC
+Segoe UI Variable Display=IBM Plex Sans SC
+Segoe UI Variable Display Bold=IBM Plex Sans SC Bold
+Segoe UI Variable Display Light=IBM Plex Sans SC Light
+Segoe UI Variable Display Semib=IBM Plex Sans SC Semibol
+Segoe UI Variable Display Semil=IBM Plex Sans SC Semil
+Segoe UI Variable Regular=IBM Plex Sans SC Regular
+Segoe UI Variable Small=IBM Plex Sans SC Tiny
+Segoe UI Variable Small Bold=IBM Plex Sans SC Bold
+Segoe UI Variable Small Light=IBM Plex Sans SC Light
+Segoe UI Variable Small Semibol=IBM Plex Sans SC Semibol
+Segoe UI Variable Small Semilig=IBM Plex Sans SC Light
+Segoe UI Variable Text=IBM Plex Sans Text
+Segoe UI Variable Text Bold=IBM Plex Sans Bold
+Segoe UI Variable Text Light=IBM Plex Sans Light
+Segoe UI Variable Text Semibold=IBM Plex Sans SC Semibol
+Segoe UI Variable Text Semiligh=IBM Plex Sans SC Light
+SegUIVar=IBM Plex Sans SC
+segoeui=IBM Plex Sans SC
+Segoe-UI=IBM Plex Sans SC
+serif=IBM Plex Sans SC
+SFNSText-Regular=IBM Plex Sans
+system-ui=IBM Plex Sans
+Tahoma=IBM Plex Sans
+Tahoma Armenian=IBM Plex Sans
+Times=IBM Plex Sans SC
+Times New Roman=IBM Plex Sans
+Tms Rmn=IBM Plex Sans SC
+ui-monospace=IBM Plex Sans
+ui-rounded=IBM Plex Sans
+ui-sans-serif=IBM Plex Sans
+ui-serif=IBM Plex Sans SC
+[Individual]
+[ExcludeSub]
+[DirectWrite]
+RenderingMode=5
+ClearTypeLevel=0.6
+GammaValue=1.9
+Contrast=1.3
+[experimental@msnmsgr.exe]
+ArmBreaker=2
+[experimental@vlc.exe]
+ArmBreaker=2
+[experimental@AIMP.exe]
+ArmBreaker=2
+[experimental@foobar2000.exe]
+ArmBreaker=2
+[experimental@firefox.exe]
+ArmBreaker=2
+ColorFont=1
+[experimental@browsers]
+ArmBreaker=2
+ColorFont=1
+InvertColor=1
+[Experimental@idea64.exe]
+Clipboxfix=1
+[general@chrome.exe]
+alternative=browsers
+[general@msedge.exe]
+alternative=browsers
+[general@msedgewebview2.exe]
+alternative=browsers
+[general@SwitchHosts.exe]
+alternative=browsers
+[general@steam.exe]
+alternative=browsers
