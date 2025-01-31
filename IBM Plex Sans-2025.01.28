@@ -50,6 +50,8 @@ lass.exe
 Lethal Company.exe
 LSB.exe
 MsMpEng.exe
+MpDefenderCoreService.exe
+NisSrv.exe
 node.exe
 NVDisplay.Container.exe
 OfficeClickToRun.exe
@@ -71,6 +73,7 @@ starwarsjedifallenorder.exe
 SynTPEnh.exe
 SynTPHelper.exe
 taskhostw.exe
+WMIRegistrationService.exe
 VBoxSVC.exe
 VirtualBox.exe
 vmnat.exe
